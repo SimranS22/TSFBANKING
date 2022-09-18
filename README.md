@@ -1,6 +1,6 @@
 # TSFBANKING - A BASIC BANKING SYSTEM
 
-The 'Basic Banking System' is a Web-Development Internship Project as part of GRIP(Graduate Rotational Internship Program)@The Sparks Foundation
+The 'Basic Banking System' is a Web-Development Internship Project (Task #1) as part of GRIP(Graduate Rotational Internship Program)@The Sparks Foundation
 
 ## Check out the website here 
 <https://tsf-website-grip.000webhostapp.com/index.php>
