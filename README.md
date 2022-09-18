@@ -10,6 +10,7 @@ The 'Basic Banking System' is a Web-Development Internship Project (Task #1) as 
   * Front-end technologies : HTML, CSS, Javascript, Bootstrap
   * Back-end technologies : PHP
   * Databases : MySQL
+  * IDE : VSCode
   
 2. Databases contains 2 tables : 
   * `Customer`: Maintains All Customer details
